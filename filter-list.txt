@@ -14,6 +14,7 @@
 
 - filter-list.txt
 - .git/
+- ..obsidian/
 
 # Used for bisync testing, so excluded from normal runs
 - testdir1/
