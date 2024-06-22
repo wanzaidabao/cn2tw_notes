@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "75f12f536a51509e",
+    "type": "split",
+    "children": [
+      {
+        "id": "789ca2836a9ded8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a908dac69e1bdc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c3790637da72918",
+    "type": "split",
+    "children": [
+      {
+        "id": "64fdaa12250f82e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd4a64bcebbac1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51bd7954c8cded1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7665021b60ca23f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a89bb7825496187",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2beefbfe8e53055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416b2553d03d7a13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320308ec576d849b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de94347c1d8f8cc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "130a5b91df7d8e67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUMMARY.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "0a908dac69e1bdc0",
+  "lastOpenFiles": [
+    "README.md",
+    "SUMMARY.md",
+    "tai-wan-ju-min-tong-xing-zheng/page-3.md",
+    "tai-wan-ju-min-tong-xing-zheng/page-2.md",
+    "page-4.md"
+  ]
+}
