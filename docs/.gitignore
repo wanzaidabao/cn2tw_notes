@@ -10,3 +10,4 @@ filter-list.txt
 .git/*
 scripts/*
 .obsidian/*
+.nfs*

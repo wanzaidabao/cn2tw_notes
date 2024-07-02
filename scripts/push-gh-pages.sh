@@ -15,6 +15,7 @@ gitbook build . docs
 cp -fr styles docs/
 cp -f book.json docs/
 cp -f CNAME docs/
+cp -f .gitignore  docs/
 
 # 添加所有更改
 git add .
