@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07c62fd0cdcd2cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-tutor-video/3-1-申請微信帳號.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3-tutor-video/3-1-申請微信帳號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3-tutor-video/3-1-申請微信帳號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "3-tutor-video/3-1-申請微信帳號.md"
               }
             }
           }
@@ -169,10 +181,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c4d01bea0aaeec7d",
+  "active": "07c62fd0cdcd2cf4",
   "lastOpenFiles": [
-    "中文目錄1/中文檔案1.md",
     "SUMMARY.md",
+    "中文目錄1/中文檔案1.md",
+    "3-tutor-video/3-1-申請微信帳號 1.md",
+    "3-tutor-video/3-1-申請微信帳號.md",
+    "3-tutor-video/3-1-申請微信帳號 2.md",
+    "3-tutor-video/如何申請微信帳號（微信帳號申請小學生教程）.md",
+    "台湾居民首次到大陆旅游的支付指南.md",
     "中文目錄1",
     "ying-pian-jiao-xue/shen-qing-wei-xin-zhang-hao-ying-pian-jiao-xue.md",
     "ying-pian-jiao-xue",
@@ -183,7 +200,6 @@
     "新增資料夾",
     "新增檔案.txt",
     "img/Screenshot_20240626_113013_com.zing.zalo.jpg",
-    "台湾居民首次到大陆旅游的支付指南.md",
     "img",
     "README.md",
     "2-travel-tip-to-china/1.pay-by-wechat-alipay.md",
@@ -201,11 +217,7 @@
     "1-residence-permit-for-taiwan-2024/四、银行卡办理.md",
     "1-residence-permit-for-taiwan-2024/三、居住证办理.md",
     "1-residence-permit-for-taiwan-2024/六、厦门生活小贴士.md",
-    "1-residence-permit-for-taiwan-2024/二、手机号码办理.md",
-    "1-residence-permit-for-taiwan-2024/七、常见问题解答（FAQ）.md",
-    "1-residence-permit-for-taiwan-2024/一、准备工作.md",
     "1-residence-permit-for-taiwan-2024",
-    "1-residence-permit-for-taiwan/四、银行卡办理.md",
     "1-residence-permit-for-taiwan",
     "1-tai-wan-ju-min-tong-xing-zheng"
   ]
