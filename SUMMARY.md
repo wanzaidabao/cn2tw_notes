@@ -17,5 +17,5 @@
 * [台湾居民首次到大陆旅游的支付指南](2-travel-tip-to-china/1-pay-by-wechat-alipay.md)
 
 ## 影片教學
-- [申請微信帳號影片教學](3-tutor-video/3-1-wechat-apply.md)
 
+* [申請微信帳號影片教學](ying-pian-jiao-xue/shen-qing-wei-xin-zhang-hao-ying-pian-jiao-xue.md)
