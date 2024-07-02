@@ -1,10 +1,13 @@
 # Table of contents
 
-* [中国湾湾的二岸笔记](README.md)
+* [湾湾的二岸笔记](README.md)
 
-## 1️ 台湾居民通行证
+## 1️ 台湾居民在大陆办理居住证、银行卡、手机号码的完整指南（2024年最新版）
 
-* [Page](tai-wan-ju-min-tong-xing-zheng/page.md)
-* [Page 1](tai-wan-ju-min-tong-xing-zheng/page-1.md)
-* [Page 2](tai-wan-ju-min-tong-xing-zheng/page-2.md)
-* [Page 3](tai-wan-ju-min-tong-xing-zheng/page-3.md)
+* [一、准备工作](一、准备工作.md)
+* [二、手机号码办理](二、手机号码办理.md)
+* [三、居住证办理](三、居住证办理)
+* [四、银行卡办理](四、银行卡办理.md)
+* [五、重要提醒](五、重要提醒.md)
+* [六、厦门生活小贴士](六、厦门生活小贴士.md)
+* [七、常见问题解答（FAQ）](七、常见问题解答（FAQ）)
