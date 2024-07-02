@@ -15,3 +15,7 @@
 ## 大陸旅遊備忘提醒事項
 
 * [台湾居民首次到大陆旅游的支付指南](2-travel-tip-to-china/1-pay-by-wechat-alipay.md)
+
+## 影片教學
+- [申請微信帳號影片教學](3-tutor-video/3-1-wechat-apply.md)
+
