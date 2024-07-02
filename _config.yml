@@ -1,0 +1,8 @@
+title: 湾湾小灵通
+description: >-
+  湾湾的二岸旅遊笔记.
+baseurl: "" 
+url: "https://book.cn2tw.online/"
+theme: minima
+plugins:
+  - jekyll-feed
