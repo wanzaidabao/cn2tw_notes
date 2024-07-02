@@ -18,6 +18,7 @@ git add .
 git commit -m 'gitbook for book.cn2tw.online'
 
 # 推送到远程 gh-pages 分支
-git push --set-upstream origin gh-pages
+git push --set-upstream origin gh-pages --force
 
+#git push -u origin gh-pages --force
 
