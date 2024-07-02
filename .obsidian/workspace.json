@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81acd03a3578b12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-travel-tip-to-china/1-pay-by-wechat-alipay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2-travel-tip-to-china/1-pay-by-wechat-alipay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2-travel-tip-to-china/1-pay-by-wechat-alipay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "2-travel-tip-to-china/1-pay-by-wechat-alipay.md"
               }
             }
           }
@@ -181,13 +193,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "b03bc11e4d1ec9f9",
+  "active": "81acd03a3578b12f",
   "lastOpenFiles": [
-    "台湾居民首次到大陆旅游的支付指南.md",
     "SUMMARY.md",
-    "2-travel-tip-to-china/台湾居民首次到大陆旅游的支付指南.md",
-    "2-travel-tip-to-china/1.pay-by-wechat-alipay.md",
     "Screenshot_20240626_113013_com.zing.zalo.jpg",
+    "README.md",
+    "台湾居民首次到大陆旅游的支付指南.md",
+    "2-travel-tip-to-china/1-pay-by-wechat-alipay.md",
+    "2-travel-tip-to-china/1.pay-by-wechat-alipay.md",
+    "2-travel-tip-to-china/台湾居民首次到大陆旅游的支付指南.md",
     "2-travel-tip-to-china/wehchat-alipay.md",
     "2-travel-tip-to-china/支付.md",
     "2-travel-tip-to-china",
@@ -209,9 +223,6 @@
     "1-residence-permit-for-taiwan/四、银行卡办理.md",
     "1-residence-permit-for-taiwan/五、重要提醒.md",
     "1-residence-permit-for-taiwan/六、厦门生活小贴士.md",
-    "1-residence-permit-for-taiwan/二、手机号码办理.md",
-    "1-residence-permit-for-taiwan/三、居住证办理.md",
-    "1-residence-permit-for-taiwan/七、常见问题解答（FAQ）.md",
     "1-residence-permit-for-taiwan",
     "1-tai-wan-ju-min-tong-xing-zheng",
     "1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024",

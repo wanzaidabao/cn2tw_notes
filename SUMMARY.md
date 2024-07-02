@@ -14,4 +14,4 @@
 
 ## 大陸旅遊備忘提醒事項
 
-* [一、台湾居民首次到大陆旅游的支付指南](1.pay-by-wechat-alipay.md)
+* [台湾居民首次到大陆旅游的支付指南](2-travel-tip-to-china/1-pay-by-wechat-alipay.md)
