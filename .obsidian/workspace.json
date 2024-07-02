@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "789ca2836a9ded8d",
+        "id": "1b8eee73ddbf86ed",
         "type": "tabs",
         "children": [
           {
-            "id": "0a908dac69e1bdc0",
+            "id": "a40777105bcd5d3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0cd753d515076c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14e85f5ee225fcea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b03bc11e4d1ec9f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81acd03a3578b12f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-travel-tip-to-china/1-pay-by-wechat-alipay.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +140,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "81acd03a3578b12f",
+  "active": "5bd4a64bcebbac1d",
   "lastOpenFiles": [
     "img/Screenshot_20240626_113013_com.zing.zalo.jpg",
     "2-travel-tip-to-china/1-pay-by-wechat-alipay.md",
