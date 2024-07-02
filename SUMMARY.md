@@ -18,4 +18,4 @@
 
 ## 影片教學
 
-* [申請微信帳號影片教學](ying-pian-jiao-xue/shen-qing-wei-xin-zhang-hao-ying-pian-jiao-xue.md)
+* [申請微信帳號影片教學](3-tutor-video//3-1-wechat-apply.md)
