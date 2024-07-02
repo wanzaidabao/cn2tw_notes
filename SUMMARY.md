@@ -4,10 +4,11 @@
 
 ## 1️ 台湾居民在大陆办理居住证、银行卡、手机号码的完整指南（2024年最新版）
 
-* [一、准备工作](一、准备工作.md)
-* [二、手机号码办理](二、手机号码办理.md)
-* [三、居住证办理](三、居住证办理)
-* [四、银行卡办理](四、银行卡办理.md)
-* [五、重要提醒](五、重要提醒.md)
-* [六、厦门生活小贴士](六、厦门生活小贴士.md)
-* [七、常见问题解答（FAQ）](七、常见问题解答（FAQ）)
+* [一、准备工作](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/yi-zhun-bei-gong-zuo.md)
+* [二、手机号码办理](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/er-shou-ji-hao-ma-ban-li.md)
+* [三、居住证办理](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/san-ju-zhu-zheng-ban-li.md)
+* [四、银行卡办理](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/si-yin-hang-ka-ban-li.md)
+* [五、重要提醒](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/wu-zhong-yao-ti-xing.md)
+* [六、厦门生活小贴士](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/liu-xia-men-sheng-huo-xiao-tie-shi.md)
+* [七、常见问题解答（FAQ）](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/qi-chang-jian-wen-ti-jie-da-faq.md)
+* [Page 1](1-tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024/page-1.md)
