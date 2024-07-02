@@ -11,6 +11,11 @@ git checkout gh-pages
 # 输出目录
 gitbook build . docs
 
+# 自訂檔(docs下會被覆蓋）
+cp -fr styles docs/
+cp -f book.json docs/
+cp -f CNAME docs/
+
 # 添加所有更改
 git add .
 
