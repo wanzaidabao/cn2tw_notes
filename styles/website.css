@@ -15,9 +15,16 @@ body, .page-inner, .markdown-section {
 }
 
 .page-inner {
-    max-width: 900px;  /* 略微增加内容宽度 */
+    max-width: 1020px; /* 增加总宽度 */
     margin: 0 auto;
-    padding: 30px;  /* 增加内边距 */
+    padding: 30px 184px; /* 左右各留 184px 的空白 */
+    box-sizing: border-box; /* 确保 padding 不会增加总宽度 */
+}
+
+@media (max-width: 1020px) {
+    .page-inner {
+        padding: 30px 20px; /* 在小屏幕上减少左右 padding */
+    }
 }
 
 .markdown-section h1 {
