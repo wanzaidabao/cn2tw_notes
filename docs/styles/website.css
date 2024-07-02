@@ -1,0 +1,17 @@
+.page-inner {
+    font-size: 16px;  /* 调整基本字体大小 */
+}
+
+.markdown-section {
+    font-size: 16px;  /* 调整内容区域字体大小 */
+}
+
+.markdown-section h1 {
+    font-size: 2em;  /* 调整标题字体大小 */
+}
+
+.markdown-section h2 {
+    font-size: 1.5em;
+}
+
+/* 可以继续添加其他元素的字体大小设置 */
