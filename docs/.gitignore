@@ -5,6 +5,8 @@
 .~*
 desktop.ini
 .dropbox
+.trash/*
 filter-list.txt
 .git/*
+scripts/*
 .obsidian/*
