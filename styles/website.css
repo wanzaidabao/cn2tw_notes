@@ -1,4 +1,7 @@
 /* Reset CSS */
 .book-summary ul.summary li.active>a {
-    color: #f990000;
+  color: #990000;
+}
+.header-inner #book-search-input{
+  background: #990000;
 }
