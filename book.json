@@ -1,11 +1,16 @@
 {
-  "links" : {
-      "sidebar" : {
-          "首页" : "https://book.cn2tw.online"
-      }
+  "links": {
+    "sidebar": {
+      "首页": "https://book.cn2tw.online"
+    }
   },
   "plugins": [
-    "theme-fexa","ga"
+    "theme-fexa",
+    "ga",
+    "back-to-top-button",
+    "copy-code-button",
+    "cuav-chapters",
+    "heading-anchors"
   ],
   "variables": {
     "themeFexa": {
@@ -21,11 +26,11 @@
   "pluginsConfig": {
     "theme-fexa": {
       "search-placeholder": "输入关键字搜索",
-      "logo": "../../logo.png",
+      "logo": "/logo.png",
       "favicon": "./favicon.ico"
     },
     "ga": {
-        "token": "G-ZS3JT8EVZH"
+      "token": "G-ZS3JT8EVZH"
     }
   }
 }
