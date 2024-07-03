@@ -1,7 +1,7 @@
 {
   "links" : {
       "sidebar" : {
-          "Home" : "http://yangzh.cn"
+          "首页" : "https://book.cn2tw.online"
       }
   },
   "plugins": [
@@ -21,8 +21,8 @@
   "pluginsConfig": {
     "theme-fexa": {
       "search-placeholder": "输入关键字搜索",
-      "logo": "./logo.png",
-      "favicon": "./favicon.ico"
+      "logo": "/logo.png",
+      "favicon": "/favicon.ico"
     },
     "ga": {
         "token": "G-ZS3JT8EVZH"
