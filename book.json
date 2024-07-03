@@ -26,8 +26,8 @@
   "pluginsConfig": {
     "theme-fexa": {
       "search-placeholder": "输入关键字搜索",
-      "logo": "./logo2.png",
-      "favicon": "./favicon.ico"
+      "logo": "/logo2.png",
+      "favicon": "/favicon.ico"
     },
     "ga": {
       "token": "G-ZS3JT8EVZH"
