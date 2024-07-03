@@ -26,7 +26,7 @@
   "pluginsConfig": {
     "theme-fexa": {
       "search-placeholder": "输入关键字搜索",
-      "logo": "/logo.png",
+      "logo": "/data/home/gitrepo/cn2tw_notes/logo.png",
       "favicon": "/favicon.ico"
     },
     "ga": {
