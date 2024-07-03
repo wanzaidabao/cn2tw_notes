@@ -15,6 +15,7 @@ gitbook build . docs
 #cp -fr styles docs/
 #cp -f book.json docs/
 /bin/cp -f CNAME docs/
+/bin/cp -f logo.png  docs/gitbook/gitbook-plugin-theme-fexa/logo.png
 /bin/cp -f .gitignore  docs/
 
 # 添加所有更改
