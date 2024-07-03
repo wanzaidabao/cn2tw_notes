@@ -7,7 +7,9 @@ cd "$PROJECT_ROOT/"
 
 # 检查是否在 gh-pages 分支上
 git checkout gh-pages
+
 #gitbook install
+
 # 输出目录
 gitbook build . docs
 
@@ -15,8 +17,8 @@ gitbook build . docs
 /bin/cp -fr styles docs/
 #cp -f book.json docs/
 /bin/cp -f CNAME docs/
-/bin/cp -f logo.png  docs/gitbook/gitbook-plugin-theme-fexa/logo.png
 /bin/cp -f .gitignore  docs/
+/bin/cp -f logo.png  docs/gitbook/gitbook-plugin-theme-fexa/logo.png
 
 # 添加所有更改
 git add .
