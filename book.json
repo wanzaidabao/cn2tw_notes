@@ -1,6 +1,11 @@
 {
+  "links" : {
+      "sidebar" : {
+          "Home" : "http://yangzh.cn"
+      }
+  },
   "plugins": [
-    "theme-fexa"
+    "theme-fexa","ga"
   ],
   "variables": {
     "themeFexa": {
@@ -8,7 +13,7 @@
         {
           "url": "https://book.cn2tw.online",
           "target": "_blank",
-          "name": "湾仔大宝的二岸笔记"
+          "name": "湾湾的二岸笔记"
         }
       ]
     }
@@ -18,6 +23,9 @@
       "search-placeholder": "输入关键字搜索",
       "logo": "./logo.png",
       "favicon": "./favicon.ico"
+    },
+    "ga": {
+        "token": "G-ZS3JT8EVZH"
     }
   }
 }
