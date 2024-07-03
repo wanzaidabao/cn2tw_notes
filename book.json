@@ -1,9 +1,9 @@
 {
-  "links": {
-    "sidebar": {
-      "首页": "https://book.cn2tw.online"
-    }
-  },
+ // "links": {
+ //   "sidebar": {
+ //     "首页": "https://book.cn2tw.online"
+ //   }
+ // },
   "plugins": [
     "theme-fexa",
     "ga",
