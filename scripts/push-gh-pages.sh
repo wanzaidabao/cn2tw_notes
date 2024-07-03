@@ -12,7 +12,7 @@ git checkout gh-pages
 gitbook build . docs
 
 # 自訂檔(docs下會被覆蓋）
-#cp -fr styles docs/
+/bin/cp -fr styles docs/
 #cp -f book.json docs/
 /bin/cp -f CNAME docs/
 /bin/cp -f logo.png  docs/gitbook/gitbook-plugin-theme-fexa/logo.png
