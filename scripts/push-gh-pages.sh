@@ -7,7 +7,7 @@ cd "$PROJECT_ROOT/"
 
 # 检查是否在 gh-pages 分支上
 git checkout gh-pages
-
+gitbook install
 # 输出目录
 gitbook build . docs
 
