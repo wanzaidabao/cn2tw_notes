@@ -1,5 +1,23 @@
 {
-    "styles": {
-        "website": "styles/website.css"
+  "plugins": [
+    "theme-fexa"
+  ],
+  "variables": {
+    "themeFexa": {
+      "nav": [
+        {
+          "url": "https://book.cn2tw.online",
+          "target": "_blank",
+          "name": "湾仔大宝的二岸笔记"
+        }
+      ]
     }
+  },
+  "pluginsConfig": {
+    "theme-fexa": {
+      "search-placeholder": "输入关键字搜索",
+      "logo": "./logo.png",
+      "favicon": "./favicon.ico"
+    }
+  }
 }
