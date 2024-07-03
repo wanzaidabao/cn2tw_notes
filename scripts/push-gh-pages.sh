@@ -7,15 +7,15 @@ cd "$PROJECT_ROOT/"
 
 # 检查是否在 gh-pages 分支上
 git checkout gh-pages
-gitbook install
+#gitbook install
 # 输出目录
 gitbook build . docs
 
 # 自訂檔(docs下會被覆蓋）
 #cp -fr styles docs/
 #cp -f book.json docs/
-cp -f CNAME docs/
-cp -f .gitignore  docs/
+/bin/cp -f CNAME docs/
+/bin/cp -f .gitignore  docs/
 
 # 添加所有更改
 git add .
