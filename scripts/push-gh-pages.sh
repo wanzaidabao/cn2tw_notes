@@ -12,8 +12,8 @@ git checkout gh-pages
 gitbook build . docs
 
 # 自訂檔(docs下會被覆蓋）
-cp -fr styles docs/
-cp -f book.json docs/
+#cp -fr styles docs/
+#cp -f book.json docs/
 cp -f CNAME docs/
 cp -f .gitignore  docs/
 
