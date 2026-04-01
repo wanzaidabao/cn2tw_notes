@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "75f12f536a51509e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b8eee73ddbf86ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c62fd0cdcd2cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-residence-permit-for-taiwan-2024/2-shou-ji-hao-ma-ban-li.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c3790637da72918",
+    "type": "split",
+    "children": [
+      {
+        "id": "64fdaa12250f82e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd4a64bcebbac1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51bd7954c8cded1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7665021b60ca23f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409.5
+  },
+  "right": {
+    "id": "6a89bb7825496187",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2beefbfe8e53055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416b2553d03d7a13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-residence-permit-for-taiwan-2024/2-shou-ji-hao-ma-ban-li.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320308ec576d849b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-residence-permit-for-taiwan-2024/2-shou-ji-hao-ma-ban-li.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de94347c1d8f8cc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "130a5b91df7d8e67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-residence-permit-for-taiwan-2024/2-shou-ji-hao-ma-ban-li.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "5bd4a64bcebbac1d",
+  "lastOpenFiles": [
+    "docs/gitbook/fonts/fontawesome",
+    "docs/gitbook/images",
+    "docs/gitbook/gitbook-plugin-theme-fexa",
+    "docs/gitbook/gitbook-plugin-search",
+    "docs/gitbook/fonts",
+    "docs/gitbook/gitbook-plugin-lunr",
+    "docs/gitbook/gitbook-plugin-back-to-top-button",
+    "docs/gitbook",
+    "logo.png",
+    "docs/logo2.png",
+    "logo2.png",
+    "_book",
+    "docs/gitbook/fonts/fontawesome/FontAwesome.otf",
+    "docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff",
+    "docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg",
+    "docs/gitbook/images/apple-touch-icon-precomposed-152.png",
+    "docs/gitbook/gitbook-plugin-theme-fexa/logo.png",
+    "logo.jpg",
+    "AWS-SCS_2024-07-03_16-21-50_cr.jpg",
+    "ying-pian-jiao-xue/31-shen-qing-wei-xin-zhang-hao.md",
+    "tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024-ni/2-shou-ji-hao-ma-ban-li.md",
+    "tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024-ni/3-ju-zhu-zheng-ban-li.md",
+    "tai-wan-ju-min-zai-da-lu-ban-li-ju-zhu-zheng-yin-hang-ka-shou-ji-hao-ma-de-wan-zheng-zhi-nan-2024-ni/1-zhun-bei-gong-zuo.md",
+    "da-lulyou-bei-wang-ti-xing-shi-xiang/wechat-alipay-guide.md",
+    "node_modules/gitbook-plugin-toggle-chapters/README.md",
+    "my-jekyll-site/index.md",
+    "about.md",
+    "1-residence-permit-for-taiwan-2024/1-zhun-bei-gong-zuo.md",
+    "index.md",
+    "my-jekyll-site/about.md",
+    "3-video-tutorials/3-1-申請微信帳號.md",
+    "3-video-tutorials/3-1-apply-wehchat.md",
+    "SUMMARY.md",
+    "README.md",
+    "2-mainland-travel-tip/wechat-alipay-guide.md",
+    "2-mainland-travel-tip/1-pay-by-wechat-alipay.md",
+    "3-tutor-video/3-1-申請微信帳號.md",
+    "中文目錄1/中文檔案1.md",
+    "2-travel-tip-to-china/1-pay-by-wechat-alipay.md",
+    "台湾居民首次到大陆旅游的支付指南.md",
+    "ying-pian-jiao-xue/shen-qing-wei-xin-zhang-hao-ying-pian-jiao-xue.md",
+    "3-tutor-video/3-1-申請微信帳號 1.md",
+    "3-tutor-video/3-1-申請微信帳號 2.md",
+    "3-tutor-video/如何申請微信帳號（微信帳號申請小學生教程）.md",
+    "img/Screenshot_20240626_113013_com.zing.zalo.jpg"
+  ]
+}
